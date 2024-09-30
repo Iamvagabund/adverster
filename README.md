@@ -3,7 +3,7 @@ User List Application - test task for adverster
 Start:
 git clone https://github.com/Iamvagabund/adverster.git
 
-cd adverstertest,
+cd adverster,
 npm install
 
 Для запуску проекту в режимі розробки використовуйте команду:
