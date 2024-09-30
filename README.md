@@ -1,7 +1,7 @@
 User List Application - test task for adverster
 
 Start:
-git clone https://github.com/Iamvagabund/adverstertest.git
+git clone https://github.com/Iamvagabund/adverster.git
 
 cd adverstertest,
 npm install
